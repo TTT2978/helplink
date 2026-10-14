@@ -6,7 +6,7 @@
 # (important when it is piped into sh).
 
 main() {
-  REPO="${HELPLINK_REPO:-YOUR_USER/helplink}"
+  REPO="${HELPLINK_REPO:-TTT2978/helplink}"
   BRANCH="${HELPLINK_BRANCH:-main}"
   URL="${HELPLINK_URL:-https://raw.githubusercontent.com/$REPO/$BRANCH/helplink.zip}"
   HL_HOME="${HELPLINK_HOME:-$HOME/.helplink}"
