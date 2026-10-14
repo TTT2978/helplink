@@ -37,7 +37,7 @@ Needed: `python3` (3.7+), OpenSSH client + server, `curl`, `cloudflared`. The in
 Replace `YOUR_USER` with the GitHub account that hosts this repo:
 
 ```sh
-curl -sL https://raw.githubusercontent.com/YOUR_USER/helplink/main/install.sh | sh
+curl -sL https://raw.githubusercontent.com/TTT2978/helplink/main/install.sh | sh
 ```
 
 What it does, step by step:
